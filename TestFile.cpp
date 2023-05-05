@@ -1,0 +1,1 @@
+// Content with scandinavian characters: åäöÅÄÖ
